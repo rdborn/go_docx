@@ -1,3 +1,3 @@
-module github.com/nguyenthenguyen/docx
+module github.com/rdborn/go_docx
 
-go 1.16
+go 1.18
